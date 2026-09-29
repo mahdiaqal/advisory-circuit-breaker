@@ -1,5 +1,5 @@
 # { "Depends": "py-genlayer:1jb45aa8ynh2a9c9xn3b7qqh8sm5q93hwfp7jqmwsfhh8jpz09h6" }
-"""Operational release gate driven by independently fetched Maven and OSV data."""
+"""Operational release gate driven by independently fetched Maven and GitHub advisory data."""
 import hashlib
 import json
 import re
